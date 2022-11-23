@@ -1,3 +1,50 @@
+# Completed Project
+
+Okay so this one was quite hard if I'm being honest.
+
+Not only did this project further strengthen my familiarity with ReactJS, but it also tested my Javascript skills.
+
+Similar to the previous project "Fully Responsive Modern UI/UX WebApp", this WebPage is also Fully Responsive.
+
+For those not familiar with what I mean by "Responsive", it simply means that as the screen real estate changes, the site will adjust with it. Maintaining readability and functionality for the user (regardless of the device or window size of the site).
+
+If you would like to test it out, simply open this webpage up on any browser of your liking and start adjusting the window size from full screen, to half the screen, to really small, and everything in between!
+
+Watch as the web app starts adjusting the content accordingly.
+
+Link to Project: https://jpgfoods.shop (Hosted on Hostinger).
+
+********************************************************************************************
+# Code Roadmap
+
+Most of the important/relevant code is in the src folder.
+
+Webpage components are broken down into sections within the "components" and "containers" sub folders.
+
+For an overall webpage structure, you can checkout the App.js file within my src folder.
+
+I also have an "assets" folder within the src folder, however this is mainly to hold my .png files that I would later use within my webpage.
+
+********************************************************************************************
+
+# Project Goal
+
+To once again practice Webpage structuring within ReactJS.
+
+However I also wanted to test my ability to implement JavaScript within my .jsx files (for different sections of the webpage).
+
+Which was a challenge, however I learned quite a bit from this project.
+
+As always, responsive website creation is critical, thus I plan on implementing it in all my projects.
+
+**********************************************************************************************
+
+# Closing Remarks
+
+Thank you for taking the time to look at my code! :)
+
+**********************************************************************************************************
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
